@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a Flutter weather application that utilizes the `http` package to interact with the `http://api.weatherapi.com/v1` API for fetching weather data. The app is built using the Provider state management library, providing a simple and efficient way to manage application state across widgets.
+This is a Flutter weather application that utilizes the `http` package to interact with the `http://api.weatherapi.com/v1` API for fetching weather data. The app is built using the Bloc state management library, providing a simple and efficient way to manage application state across widgets.
 
 ## Features
 
